@@ -1,0 +1,7 @@
+app:
+  openexchangerates:
+    base-url: https://openexchangerates.org/api
+    app-id: 64d06f6a2b5c4adcad84d3b0e38ef748
+  giphy:
+    base-url: https://api.giphy.com/v1
+    api-key: UR5Jj0ekwNqzezNaSARLWdYZL7P5psiI
